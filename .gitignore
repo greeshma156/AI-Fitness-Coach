@@ -1,0 +1,14 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.env/
+
+# Project Specifics
+# We ignore these because they are large or personal
+music/
+*.mp3
+pose_landmarker_lite.task
+highscore.txt
